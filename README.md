@@ -5,4 +5,3 @@ Em cada pasta você pode encontrar um Dashboard diferente, com um README.md dife
 **Projetos**
 * OList
 * Buscante
-* 
